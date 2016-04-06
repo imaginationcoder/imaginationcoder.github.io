@@ -932,23 +932,6 @@ footer{
     background-color: #009688;
 }
 
-/*.container>.navbar-header{
-    background-color: #fff;
-    box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
-}*/
-
-/*.navbar-default .navbar-collapse {
-    border-color: rgba(255,255,255,.02);
-    background-color: #009688;
-}*/
-
-/*.navbar-default .nav li a:hover, .navbar-default .nav li a:focus {
-    outline: 0;
-    color: #fff;
-}
-*/
-
-
 @media (min-width: 768px){
 .navbar-default.navbar-shrink {
     padding: 10px 0;
